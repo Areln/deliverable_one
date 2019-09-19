@@ -1,0 +1,7 @@
+C:\Users\andaa\Desktop\IMPORTANT FILES\GCProjects\deliverableone\deliverableone\bin\Debug\deliverableone.exe.config
+C:\Users\andaa\Desktop\IMPORTANT FILES\GCProjects\deliverableone\deliverableone\bin\Debug\deliverableone.exe
+C:\Users\andaa\Desktop\IMPORTANT FILES\GCProjects\deliverableone\deliverableone\bin\Debug\deliverableone.pdb
+C:\Users\andaa\Desktop\IMPORTANT FILES\GCProjects\deliverableone\deliverableone\obj\Debug\deliverableone.csprojAssemblyReference.cache
+C:\Users\andaa\Desktop\IMPORTANT FILES\GCProjects\deliverableone\deliverableone\obj\Debug\deliverableone.csproj.CoreCompileInputs.cache
+C:\Users\andaa\Desktop\IMPORTANT FILES\GCProjects\deliverableone\deliverableone\obj\Debug\deliverableone.exe
+C:\Users\andaa\Desktop\IMPORTANT FILES\GCProjects\deliverableone\deliverableone\obj\Debug\deliverableone.pdb
